@@ -78,7 +78,7 @@ body {
 	width: 40rem;
 	height: 100%;
 	background: linear-gradient(to top, rgba(34, 32, 41, 1), rgba(34, 32, 41, 0.5)),
-		url("/img/nav-bg.jpeg") center no-repeat;
+		url("img/nav-bg.jpeg") center no-repeat;
 	background-size: cover;
 	display: flex;
 	flex-direction: column;
@@ -215,7 +215,7 @@ body {
 	margin-left: 8rem;
 	height: 100vh;
 	background: linear-gradient(to top, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.3)),
-		url("/img/header.jpeg") center no-repeat;
+		url("img/header.jpeg") center no-repeat;
 	background-size: cover;
 }
 
