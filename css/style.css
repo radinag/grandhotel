@@ -263,6 +263,7 @@ body {
 	border: none;
 	border-radius: 10rem;
 	outline: none;
+	cursor: pointer;
 	background: linear-gradient(to right, rgb(230, 166, 120), rgb(209, 115, 53));
 	animation: anim 1s 1s backwards;
 }
